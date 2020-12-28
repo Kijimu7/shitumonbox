@@ -9,5 +9,4 @@ A simple chatbot using IBM Watson
 ## Solution Tutorials 
 For other solution tutorials, [click here](http://ibm.biz/solution-tutorials)
 ## License
-
 See [License.txt](https://github.com/IBM-Cloud/chatbot-watson-android/blob/master/License.txt) for license information.
