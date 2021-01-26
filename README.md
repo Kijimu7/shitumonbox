@@ -7,6 +7,9 @@ A simple chatbot using IBM Watson
 <p align="center"><image src="https://github.com/Kijimu7/shitumonbox/blob/chatbotproject/shitumon.gif" width="350" />
 <br>
   
+ <p align="center"><image src="https://github.com/Kijimu7/shitumonbox/blob/chatbotproject/shitumon_appointment.gif" width="350" />
+<br> 
+  
 ## Solution Tutorials 
 For other solution tutorials, [click here](http://ibm.biz/solution-tutorials)
 <br>
